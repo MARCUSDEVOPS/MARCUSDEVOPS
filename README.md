@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MARCUSDEVOPS
-- 👀 I’m interested in  trabalhar na área de T.I.
-- 🌱 I’m currently learning  HTML5, CSS3, C and Python.
-- 💞️ I’m looking to collaborate on  desenvolvimento web
+- 👀 I’m interested in  working in the Information Technology field.
+- 🌱 I’m currently learning  HTML5, CSS3, C, Python and Scratch.
+- 💞️ I’m looking to collaborate on web developer.
 - 📫 How to reach me +5511 983424618 marcus.investor@outlook.com
 
 <!---
